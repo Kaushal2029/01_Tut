@@ -1,0 +1,29 @@
+.container h1 u {
+  text-align: center;
+}
+.Register-form {
+  margin: auto;
+}
+table tr td input {
+  padding: 10px 50px;
+  font-size: 18px;
+}
+.r-btn button {
+  margin: 20px;
+}
+
+table tr th {
+  text-align: left;
+}
+.DOB {
+  width: 220px;
+}
+.rdio-btn {
+  display: inline-block;
+  gap: 20px;
+}
+
+span {
+  color: red;
+  font-size: 20px;
+}
